@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Algorithmic Skills",
-    "\\Bit-Ops"
+    "\\Exercises",
+    "\\Exercises\\Bit-Ops"
   ],
-  "SelectedNode": "\\Bit-Ops\\1.BinaryGap.cs",
+  "SelectedNode": "\\Exercises\\Bit-Ops\\1.BinaryGap.cs",
   "PreviewInSolutionExplorer": false
 }
