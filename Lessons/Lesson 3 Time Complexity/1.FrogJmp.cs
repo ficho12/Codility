@@ -13,6 +13,6 @@ class Solution
     {
         if((double)Y- (double)X == 0d)
             return 0;
-        return (int)Math.Ceiling((((double)Y - (double)X) / (double)D) + 0.5d);
+        return (int)Math.Ceiling(((double)Y - (double)X) / (double)D);
     }
 }
